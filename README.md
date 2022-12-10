@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Jagdish_Behera
+- 👀 I’m interested in Web devlopmaent.
+- 🌱 I’m currently learning frontend web devlopment.
+- 💞️ I am always open to discussing new projects, creative ideas or opportunities to be part of your visions.
+- 📫 Feel free to get in touch with me - mail2jagdishbehera@gmail.com
